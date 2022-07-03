@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FootballApp</string>
+    <string name="team"># Team</string>
+</resources>
